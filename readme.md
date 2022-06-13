@@ -1,4 +1,9 @@
- 22 Key One-handed borad with splay and stagger and a generous thumb cluster
+
+![the happy couple](/IMG_20220109_104142__01.jpg)
+
+
+
+22 Key One-handed borad with splay and stagger and a generous thumb cluster
  
  Can use choc hotswaps or just solder keys directly.
  
@@ -11,4 +16,8 @@
  Fits a tenting puck
  
  
+ 
+ ![Left Side](/IMG_20220303_094846__01.jpg)
+
+
  

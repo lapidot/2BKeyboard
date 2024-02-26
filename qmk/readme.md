@@ -1,3 +1,8 @@
-This zip should be put into QMK/Keyboards/handwired/dactyl_manuform
-It adds the 2b as a version of the dactyl manuform.
-Eventually i'll make it work as a separate keyboard 
+This zip includes the 2b folder to be copied into the Keyboards/ folder under QMK
+I didn't add a simple/default keymap
+so this one includes a ton of layers, combos, tapdance, and a buzzer used for some layer changes.
+
+flash using these commands (assuming AVR):
+make 2b:danl4:avrdude-split-left        
+make 2b:danl4:avrdude-split-rightt        
+
